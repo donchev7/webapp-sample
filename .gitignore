@@ -1,0 +1,11 @@
+# App ignores.
+.vscode
+.dockerignore
+.vscode/
+.coverage
+instance/
+instance
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]

@@ -1,0 +1,3 @@
+#USE FOR DEVELOPMENT
+DEBUG = True
+SECRET_KEY = 'insecurekey'
