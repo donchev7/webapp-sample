@@ -45,6 +45,6 @@ def route(app):
     @app.route('/index')
     @app.route('/home')
     def index():
-        return "Hello beautiful world!"
+        return "Hello bb beautiful world!"
 
     return app
